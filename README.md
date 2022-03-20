@@ -1,4 +1,4 @@
-# Python Headeline Emailer
+# Python Headline Emailer
 a python automatic email sender that sends scraped news headlines and url
 
 # Tool & Libraries Used
