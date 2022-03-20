@@ -1,7 +1,7 @@
 # Python Headeline Emailer
 a python automatic email sender that sends scraped news headlines and url
 
-#Tool & Libraries Used
+# Tool & Libraries Used
 Python, Python Requests, BeautifulSoup, email.mime
 
 # Project Overview
@@ -12,7 +12,7 @@ Python, Python Requests, BeautifulSoup, email.mime
 
 # Project Demo
 - can directly run the program in terminal by entering the sender gmail and password 
-![terminal](doc/demo-terminal.png)
+    - ![terminal](doc/demo-terminal.png)
 - email received
-![email](doc/demo-email.png)
+    - ![email](doc/demo-email.png)
 
